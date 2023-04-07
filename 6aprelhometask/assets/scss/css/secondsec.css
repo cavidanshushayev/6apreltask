@@ -1,0 +1,29 @@
+#sec_2 {
+  height: 600px;
+  background-color: aliceblue;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  font-size: xx-large;
+}
+#sec_2 h1 {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#sec_2 h3 {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#sec_2 button {
+  background-color: black;
+  color: white;
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}/*# sourceMappingURL=secondsec.css.map */

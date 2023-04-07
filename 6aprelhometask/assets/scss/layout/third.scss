@@ -1,0 +1,37 @@
+#sec_3{
+
+    
+    height: 600px;
+    background-color: rgb(94, 94, 239);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   position: relative;
+   font-size: xx-large;
+   .title{
+  padding-left: 50%;
+   }
+    // p{
+    //     position: absolute;
+    //     top: 30%;
+    //     left:50%;
+    //     transform: translate(-50%,-50%);
+    // }
+    // h3{
+    //     position: absolute;
+    //     top: 40%;
+    //     left:50%;
+    //     transform: translate(-50%,-50%);
+    // }
+    .cart{
+      padding-top: 15%;
+      
+      i{
+        width: 100%;
+        border-radius: 50%;
+       border: 5px solid rgb(250, 250, 250);
+       background-color: white;
+      }
+    }
+   
+}
